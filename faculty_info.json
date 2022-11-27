@@ -1,0 +1,2008 @@
+[
+    {
+        "name": "Sarita V Adve",
+        "title": "Richard T. Cheng Professor",
+        "phone_number": "(217) 333-8461",
+        "email": "sadve@illinois.edu",
+        "office_address": "4104 Siebel Center for Comp Sci",
+        "link": [
+            "http://www.cs.uiuc.edu/~sadve"
+        ],
+        "education": [
+            "Computer Science, Ph.D., University of Wisconsin-Madison, 1993"
+        ]
+    },
+    {
+        "name": "Vikram Adve",
+        "title": "Donald B. Gillies Professor in Computer Science",
+        "phone_number": "(217) 244-2016",
+        "email": "vadve@illinois.edu",
+        "office_address": "4235 Siebel Center for Comp Sci",
+        "link": [
+            "http://vikram.cs.illinois.edu/",
+            "http://llvm.org"
+        ],
+        "education": [
+            "Ph.D. in Computer Science from University of Wisconsin-Madison, 1993."
+        ]
+    },
+    {
+        "name": "Gul A Agha",
+        "title": "Research Professor and Professor Emeritus",
+        "phone_number": "(217) 244-3087",
+        "email": "agha@illinois.edu",
+        "office_address": "2104 Siebel Center for Comp Sci",
+        "link": [
+            "http://osl.cs.illinois.edu/members/agha.html"
+        ],
+        "education": [
+            "Ph.D., Computer & Communication Science, University of Michigan at Ann Arbor, 1985"
+        ]
+    },
+    {
+        "name": "Abdussalam  Alawini",
+        "title": "Teaching Assistant Professor",
+        "phone_number": "(217) 300-8116",
+        "email": "alawini@illinois.edu",
+        "office_address": "2237 Siebel Center for Comp Sci",
+        "link": [
+            "https://alawini.web.illinois.edu"
+        ],
+        "education": [
+            "Ph.D. Computer Science",
+            "MSc. Engineering and Technology Management",
+            "MSc. Computer Science"
+        ]
+    },
+    {
+        "name": "Gabrielle Dawn Allen",
+        "title": "Research Professor & Senior Research Scientist, NCSA",
+        "phone_number": "(217) 300-5515",
+        "email": "gdallen@illinois.edu",
+        "office_address": "38E Education Building",
+        "link": [
+            "https://cs.illinois.edu/research/areas/computers-and-education",
+            "http://cs.illinois.edu/research/areas/scientific-computing"
+        ],
+        "education": null
+    },
+    {
+        "name": "Nancy M. Amato",
+        "title": "Abel Bliss Professor of Engineering and Department Head",
+        "phone_number": "(217) 333-3426",
+        "email": "namato@illinois.edu",
+        "office_address": "2248 Siebel Center for Comp Sci",
+        "link": [
+            "https://parasollab.web.illinois.edu/people/amato/cv-amato.pdf",
+            "https://parasollab.web.illinois.edu/"
+        ],
+        "education": [
+            "Parallel and distributed computing, parallel algorithms, performance modeling and optimization.",
+            "Motion planning, robotics, computational biology, computational geometry, animation, CAD."
+        ]
+    },
+    {
+        "name": "Mark A Anastasio",
+        "title": "Department Affiliate",
+        "phone_number": "",
+        "email": "maa@illinois.edu",
+        "office_address": "",
+        "link": [
+            "https://anastasio.bioengineering.illinois.edu/"
+        ],
+        "education": [
+            "1995 \u2013 2001 Ph.D. Medical Physics, The University of Chicago"
+        ]
+    },
+    {
+        "name": "Lawrence Angrave",
+        "title": "Teaching Professor, Gies RC Evans Innovation Fellow, CITL Fellow",
+        "phone_number": "(217) 333-1424",
+        "email": "angrave@illinois.edu",
+        "office_address": "2217 Siebel Center for Comp Sci",
+        "link": [],
+        "education": [
+            "Computers and Education"
+        ]
+    },
+    {
+        "name": "Brian P Bailey",
+        "title": "Professor",
+        "phone_number": "(217) 333-6106",
+        "email": "bpbailey@illinois.edu",
+        "office_address": "4222 Siebel Center for Comp Sci",
+        "link": [
+            "http://orchid.cs.illinois.edu/"
+        ],
+        "education": [
+            "University of Minnesota\tPh.D. in Computer Science\t2002"
+        ]
+    },
+    {
+        "name": "Arindam Banerjee",
+        "title": "Founder Professor in Engineering",
+        "phone_number": "",
+        "email": "arindamb@illinois.edu",
+        "office_address": "2128 Siebel Center for Comp Sci",
+        "link": [
+            "https://arindam.cs.illinois.edu/"
+        ],
+        "education": [
+            "Artificial Intelligence",
+            "Data and Information Systems"
+        ]
+    },
+    {
+        "name": "Adam Bates",
+        "title": "Associate Professor",
+        "phone_number": "(217) 300-4653",
+        "email": "batesa@illinois.edu",
+        "office_address": "4306 Siebel Center for Comp Sci",
+        "link": [
+            "https://sts.cs.illinois.edu/",
+            "https://adambates.org"
+        ],
+        "education": [
+            "Ph.D., Computer Science, University of Florida, 2016. \nThesis: \"Designing and Leveraging Trustworthy Provenance-Aware Systems.\"\nAdvisor: Kevin Butler",
+            "M.Sc, Computer Science, University of Oregon, 2012. Thesis: \"Detecting Compute Cloud Co-residency with Network Flow Watermarking Techniques.\" Advisor: Kevin Butler",
+            "B.Sc., Computer Science, University of Maryland, 2006."
+        ]
+    },
+    {
+        "name": "Mattox Alan Beckman",
+        "title": "Teaching Associate Professor",
+        "phone_number": "(217) 265-0731",
+        "email": "mattox@illinois.edu",
+        "office_address": "2212 Siebel Center for Comp Sci",
+        "link": [
+            "https://mattox.web.illinois.edu"
+        ],
+        "education": [
+            "PhD in Computer Science / University of Illinois at Urbana / 2003",
+            "BS in Math and Computer Science / University of Illinois at Urbana / 1993"
+        ]
+    },
+    {
+        "name": "Catherine Lesley Blake",
+        "title": "Associate Professor, Information Sciences",
+        "phone_number": "(217) 333-0115",
+        "email": "clblake@illinois.edu",
+        "office_address": "303 Grad Sch of Lib & Info Science",
+        "link": [
+            "https://publish.illinois.edu/catherineblake/"
+        ],
+        "education": [
+            "Data and Information Systems"
+        ]
+    },
+    {
+        "name": "Timothy Bretl",
+        "title": "Professor, Aerospace Engineering",
+        "phone_number": "(217) 244-3126",
+        "email": "tbretl@illinois.edu",
+        "office_address": "148 Coordinated Science Lab",
+        "link": [
+            "http://bretl.csl.illinois.edu/"
+        ],
+        "education": [
+            "Ph.D., Aeronautics and Astronautics, Stanford University, 2005 (Thesis: \"Multi-Step Motion Planning: Application to Free-Climbing Robots\" / Advisor: Stephen M. Rock)",
+            "M.S., Aeronautics and Astronautics, Stanford University, 2000",
+            "B.A., Mathematics, Swarthmore College, 1999",
+            "B.S., Engineering, Swarthmore College, 1999"
+        ]
+    },
+    {
+        "name": "Robert J Brunner",
+        "title": "Professor, Astronomy",
+        "phone_number": "(217) 244-6099",
+        "email": "bigdog@illinois.edu",
+        "office_address": "355 Wohlers Hall",
+        "link": [
+            "https://astro.illinois.edu/directory/profile/bigdog"
+        ],
+        "education": [
+            "Data and Information Systems",
+            "Scientific Computing"
+        ]
+    },
+    {
+        "name": "Matthew Caesar",
+        "title": "Professor",
+        "phone_number": "(847) 323-2968",
+        "email": "caesar@illinois.edu",
+        "office_address": "3118 Siebel Center for Comp Sci",
+        "link": [
+            "http://www.cs.illinois.edu/~caesar"
+        ],
+        "education": [
+            "Ph.D., Computer Science, University of California, Berkeley, 2007"
+        ]
+    },
+    {
+        "name": "Roy H Campbell",
+        "title": "Sohaib and Sara Abbasi Professor Emeritus",
+        "phone_number": "",
+        "email": "rhc@illinois.edu",
+        "office_address": "",
+        "link": [
+            "http://srg.cs.illinois.edu",
+            "http://cs.illinois.edu/people/faculty/roy-campbell"
+        ],
+        "education": [
+            "Ph.D., Computer Science, University of Newcastle upon Tyne, May 1977"
+        ]
+    },
+    {
+        "name": "George Chacko",
+        "title": "Research Associate Professor",
+        "phone_number": "(217) 244-1420",
+        "email": "chackoge@illinois.edu",
+        "office_address": "2130 Siebel Center for Comp Sci",
+        "link": [
+            "https://netesolutions.github.io/ernie_homepage/"
+        ],
+        "education": [
+            "CS 598: Computational Scientometrics"
+        ]
+    },
+    {
+        "name": "Geoffrey Werner Challen",
+        "title": "Teaching Associate Professor",
+        "phone_number": "(217) 300-6150",
+        "email": "challen@illinois.edu",
+        "office_address": "2227 Siebel Center for Comp Sci",
+        "link": [
+            "https://cs124.org",
+            "https://geoffreychallen.com",
+            "https://cs125-old.cs.illinois.edu",
+            "https://www.ops-class.org",
+            "https://www.bluegroup.systems/"
+        ],
+        "education": [
+            "Ph.D. Computer Science, Harvard University, 6/2010",
+            "AB Physics, Harvard University, 6/2003"
+        ]
+    },
+    {
+        "name": "Timothy Moon-Yew Chan",
+        "title": "Founder Professor in Engineering",
+        "phone_number": "(217) 300-1097",
+        "email": "tmc@illinois.edu",
+        "office_address": "3230 Siebel Center for Comp Sci",
+        "link": [
+            "http://tmc.web.engr.illinois.edu/"
+        ],
+        "education": [
+            "Theory and Algorithms"
+        ]
+    },
+    {
+        "name": "Kevin Chenchuan Chang",
+        "title": "Professor",
+        "phone_number": "(217) 244-2919",
+        "email": "kcchang@illinois.edu",
+        "office_address": "2134 Siebel Center for Comp Sci",
+        "link": [
+            "http://www.forwarddatalab.org",
+            "http://www.forwarddatalab.org/kevinccchang"
+        ],
+        "education": [
+            "Ph.D. Electrial Engineering, Stanford University, 2001"
+        ]
+    },
+    {
+        "name": "Chandra Sekhar Chekuri",
+        "title": "Paul and Cynthia Saylor Professor",
+        "phone_number": "(217) 265-0705",
+        "email": "chekuri@illinois.edu",
+        "office_address": "3228 Siebel Center for Comp Sci",
+        "link": [
+            "http://cs.illinois.edu/research/areas/theory-and-algorithms"
+        ],
+        "education": [
+            "Chandra Chekuri and Chao Xu. Minimum Cuts and Sparsification in Hypergraphs, 47(6), 2118\u20132156, 2018.",
+            "Chandra Chekuri and Julia Chuzhoy, Polynomial bounds for the grid-minor theorem, Journal of the ACM, 40:1-40:65 (2016).",
+            "Chandra Chekuri, Sreeram Kannan, Adnan Raja and Pramod Viswanath.  Multicommodity Flows and Cuts in Polymatroidal Networks , SIAM Journal on Computing, 44(4): 912 - 943, 2015.",
+            "Chandra Chekuri, Jan Vondrak and Rico Zenklusen, Submodular Function Maximization via the Multilinear Relaxation and Contention Resolution Schemes  , SIAM Journal on Computing, 43(6): 1831-1879, 2014.",
+            "G. C\\'alinescu, C. Chekuri, M. Pal and J. Vondr\\'ak : Maximizing a Monotone Submodular Function subject to a Matroid Constraint, SIAM Journal\u00a0 on Computing, 40(6):1740--1766. Published online, Dec 2011.",
+            "Chandra Chekuri, Sanjeev  Khanna, F.  Bruce Shepherd: Edge-Disjoint Paths in Planar Graphs with Constant Congestion. SIAM  J. Comput. 39(1): 281-301 (2009)",
+            "C. Chekuri and S. Khanna, \"A PTAS for the Multiple Knapsack Problem,\" SIAM Journal on Computing, 35(3): pp. 713-728, 2006."
+        ]
+    },
+    {
+        "name": "Wendy K Tam Cho",
+        "title": "Professor, Political Science",
+        "phone_number": "(217) 333-9588",
+        "email": "wendycho@illinois.edu",
+        "office_address": "304E David Kinley Hall",
+        "link": [
+            "http://cho.pol.illinois.edu/wendy/"
+        ],
+        "education": [
+            "A.B. \nPolitical Science, University of California at Berkeley, \nBerkeley, California, 1990",
+            "A.B. \nApplied Mathematics (applied field: ComputerScience), \nUniversity of California at Berkeley, Berkeley, California, 1990",
+            "M.A. \nPolitical Science, University of California at Berkeley, \nBerkeley, California, 1992",
+            "M.A. \nStatistics, University of California at Berkeley, \nBerkeley, California, 1997",
+            "Ph.D Political Science, University of California at Berkeley, \nBerkeley, California, 1997"
+        ]
+    },
+    {
+        "name": "Camille Cobb",
+        "title": "Assistant Professor",
+        "phone_number": "",
+        "email": "camillec@illinois.edu",
+        "office_address": "4230 Siebel Center for Comp Sci",
+        "link": [
+            "https://camillec.com/"
+        ],
+        "education": [
+            "Interactive Computing",
+            "Security and Privacy"
+        ]
+    },
+    {
+        "name": "Benjamin Cosman",
+        "title": "Teaching Assistant Professor",
+        "phone_number": "(217) 244-8874",
+        "email": "bcosman@illinois.edu",
+        "office_address": "2334 Siebel Center for Comp Sci",
+        "link": [
+            "https://cs.illinois.edu/research/areas/computers-and-education"
+        ],
+        "education": [
+            "CS 173 - Discrete Structures",
+            "CS 199 173 - Supplementary proj for CS-173",
+            "CS 475 (MATH 475) - Formal Models of Computation"
+        ]
+    },
+    {
+        "name": "Donna J Cox",
+        "title": "Professor Emeritus, Art and Design, National Center for Supercomputing Applications",
+        "phone_number": "",
+        "email": "donnacox@illinois.edu",
+        "office_address": "",
+        "link": [
+            "https://cs.illinois.edu/research/areas/interactive-computing"
+        ],
+        "education": null
+    },
+    {
+        "name": "Katie Cunningham",
+        "title": "Assistant Professor",
+        "phone_number": "",
+        "email": "katcun@illinois.edu",
+        "office_address": "3215 Siebel Center for Comp Sci",
+        "link": [
+            "https://cs.illinois.edu/research/areas/computers-and-education"
+        ],
+        "education": [
+            "CS 500 - Topics in Comp Ed Rsrch"
+        ]
+    },
+    {
+        "name": "Ryan Matthew Cunningham",
+        "title": "Lecturer",
+        "phone_number": "",
+        "email": "rcunnin2@illinois.edu",
+        "office_address": "2211 Siebel Center for Comp Sci",
+        "link": [],
+        "education": null
+    },
+    {
+        "name": "Neal E Davis",
+        "title": "Teaching Assistant Professor",
+        "phone_number": "(217) 244-4181",
+        "email": "davis68@illinois.edu",
+        "office_address": "2229 Siebel Center for Comp Sci",
+        "link": [
+            "https://go.illinois.edu/cs101"
+        ],
+        "education": [
+            "Ph.D., Nuclear Engineering, University of Illinois, 2013",
+            "M.S., Nuclear Engineering, University of Illinois, 2011",
+            "B.S., Chemical Engineering, Brigham Young University, 2008"
+        ]
+    },
+    {
+        "name": "Gerald F DeJong, II",
+        "title": "Professor Emeritus",
+        "phone_number": "",
+        "email": "mrebl@illinois.edu",
+        "office_address": "",
+        "link": [],
+        "education": [
+            "Artificial Intelligence"
+        ]
+    },
+    {
+        "name": "Jana Diesner",
+        "title": "Associate Professor, Information Sciences",
+        "phone_number": "(217) 244-3576",
+        "email": "jdiesner@illinois.edu",
+        "office_address": "Grad Sch of Lib & Info Science",
+        "link": [
+            "http://people.lis.illinois.edu/~jdiesner/"
+        ],
+        "education": [
+            "INFO 590 - Seminar in AI and Social Compu",
+            "INFO 597 JD2 - Individual Study",
+            "IS 524 - Data Governance",
+            "IS 527 (IS 559) - Network Analysis",
+            "IS 569 - Internship",
+            "IS 588 - Research Design in LIS",
+            "IS 597 - Responsible Data Science & AI",
+            "LIS 590 - Adv Tpcs-Mach Learn & Soc Comp"
+        ]
+    },
+    {
+        "name": "Katie Driggs-Campbell",
+        "title": "Assistant Professor, Electrical & Computer Engineering",
+        "phone_number": "",
+        "email": "krdc@illinois.edu",
+        "office_address": "260 Coordinated Science Lab",
+        "link": [
+            "https://thehcalab.web.illinois.edu/",
+            "https://krdc.web.illinois.edu/"
+        ],
+        "education": [
+            "PhD in Electrical Engineering and Computer Sciences, University of California, Berkeley, 2017",
+            "MS in Electrical Engineering and Computer Sciences, University of California, Berkeley, 2015",
+            "BSE in Electrical Engineering, Arizona State University, 2012"
+        ]
+    },
+    {
+        "name": "Geir E Dullerud",
+        "title": "Professor, Mechanical Science and Engineering",
+        "phone_number": "(217) 265-5078",
+        "email": "dullerud@illinois.edu",
+        "office_address": "340 Mechanical Engineering Bldg",
+        "link": [
+            "https://autonomy.illinois.edu/"
+        ],
+        "education": [
+            "Ph.D., Information Engineering, Cambridge University, England, 1994",
+            "M.A.Sc.\tElec Eng\tUniversity of Toronto, Canada\t1990",
+            "B.A.Sc.\tEng Science\tUniversity of Toronto, Canada\t1988"
+        ]
+    },
+    {
+        "name": "Mohammed El-Kebir",
+        "title": "Assistant Professor",
+        "phone_number": "(217) 333-0135",
+        "email": "melkebir@illinois.edu",
+        "office_address": "3216 Siebel Center for Comp Sci",
+        "link": [
+            "https://www.el-kebir.net"
+        ],
+        "education": [
+            "Ph.D., Computer Science, VU University Amsterdam and Centrum Wiskunde & Informatica (CWI), 2015",
+            "M.S., Bioinformatics, VU University Amsterdam, 2010",
+            "M.S., Computer Science and Engineering, Eindhoven University of Technology, 2009",
+            "B.S., Computer Science and Engineering, Eindhoven University of Technology, 2006"
+        ]
+    },
+    {
+        "name": "Jeff Erickson",
+        "title": "Sohaib and Sara Abbasi Professor",
+        "phone_number": "(217) 333-6769",
+        "email": "jeffe@illinois.edu",
+        "office_address": "3237 Siebel Center for Comp Sci",
+        "link": [
+            "http://jeffe.cs.illinois.edu"
+        ],
+        "education": [
+            "Ph.D., Computer Science, University of California, Berkeley, July 1996",
+            "M.S., Information and Computer Science, University of California, Irvine, June 1992",
+            "B.A., Computer Science and Mathematical Sciences (double major), Rice University, May 1987"
+        ]
+    },
+    {
+        "name": "Carl Evans",
+        "title": "Teaching Assistant Professor",
+        "phone_number": "(217) 300-5458",
+        "email": "gcevans@illinois.edu",
+        "office_address": "3209 Siebel Center for Comp Sci",
+        "link": [],
+        "education": [
+            "Computers and Education"
+        ]
+    },
+    {
+        "name": "Paul Fischer",
+        "title": "Professor",
+        "phone_number": "(217) 300-2031",
+        "email": "fischerp@illinois.edu",
+        "office_address": "4320 Siebel Center for Comp Sci",
+        "link": [
+            "http://fischerp.cs.illinois.edu"
+        ],
+        "education": [
+            "Scientific Computing"
+        ]
+    },
+    {
+        "name": "Margaret M Fleck",
+        "title": "Teaching Professor and Senior Lecturer, and Director of Undergraduate Programs",
+        "phone_number": "(217) 265-6838",
+        "email": "mfleck@illinois.edu",
+        "office_address": "3214 Siebel Center for Comp Sci",
+        "link": [
+            "http://mfleck.cs.illinois.edu/"
+        ],
+        "education": [
+            "Ph.D., Electrical Engineering and Computer Science, Massachusetts Institute of Technology, Sept. 1988",
+            "M.S., Electrical Engineering and Computer Science, Massachusetts Institute of Technology, Sept. 1985",
+            "B.A., Linguistics, Yale University, May 1982"
+        ]
+    },
+    {
+        "name": "Christopher Wardlaw Fletcher",
+        "title": "Assistant Professor",
+        "phone_number": "(217) 300-2309",
+        "email": "cwfletch@illinois.edu",
+        "office_address": "4106 Siebel Center for Comp Sci",
+        "link": [
+            "http://cwfletcher.net"
+        ],
+        "education": [
+            "Computer Architecture",
+            "Security and Privacy"
+        ]
+    },
+    {
+        "name": "Michael A Forbes",
+        "title": "Assistant Professor",
+        "phone_number": "(217) 300-0454",
+        "email": "miforbes@illinois.edu",
+        "office_address": "3220 Siebel Center for Comp Sci",
+        "link": [
+            "http://cs.illinois.edu/research/areas/theory-and-algorithms"
+        ],
+        "education": [
+            "CS 473 (CSE 414, MATH 473) - Algorithms",
+            "CS 579 (ECE 579) - Computational Complexity",
+            "CS 598 MAF (CS 598 PSR) - Pseudorandomness"
+        ]
+    },
+    {
+        "name": "David Forsyth",
+        "title": "Fulton Watson Copp Chair in Computer Science",
+        "phone_number": "(217) 265-6851",
+        "email": "daf@illinois.edu",
+        "office_address": "3310 Siebel Center for Comp Sci",
+        "link": [],
+        "education": [
+            "Artificial Intelligence",
+            "Interactive Computing"
+        ]
+    },
+    {
+        "name": "H George Friedman",
+        "title": "Professor Emeritus",
+        "phone_number": "",
+        "email": "friedman@illinois.edu",
+        "office_address": "",
+        "link": [
+            "http://friedman.cs.illinois.edu"
+        ],
+        "education": null
+    },
+    {
+        "name": "Aishwarya Ganesan",
+        "title": "Assistant Professor",
+        "phone_number": "",
+        "email": "aganesn2@illinois.edu",
+        "office_address": "",
+        "link": [
+            "https://aishwaryaganesan.github.io/"
+        ],
+        "education": [
+            "Ph.D. in Computer Sciences, University of Wisconsin-Madison, 2020",
+            "M.Tech. in Computer Science and Engineering, Indian Institute of Technology Bombay, 2013"
+        ]
+    },
+    {
+        "name": "Charles Gear",
+        "title": "Professor Emeritus",
+        "phone_number": "",
+        "email": "c-gear@illinois.edu",
+        "office_address": "",
+        "link": [
+            "http://www.princeton.edu/~wgear/"
+        ],
+        "education": null
+    },
+    {
+        "name": "Yael Gertner",
+        "title": "Teaching Assistant Professor",
+        "phone_number": "(217) 244-6410",
+        "email": "ygertner@illinois.edu",
+        "office_address": "2340 Siebel Center for Comp Sci",
+        "link": [
+            "http://ygertner.web.illinois.edu/index.html"
+        ],
+        "education": [
+            "Computers and Education"
+        ]
+    },
+    {
+        "name": "Saugata Ghose",
+        "title": "Assistant Professor",
+        "phone_number": "(217) 333-1893",
+        "email": "ghose@illinois.edu",
+        "office_address": "4120 Siebel Center for Comp Sci",
+        "link": [
+            "https://ghose.cs.illinois.edu/"
+        ],
+        "education": [
+            "Ph.D., Computer Engineering, Cornell University, 2014",
+            "M.S., Computer Engineering, Cornell University, 2014",
+            "B.S., Computer Science, State University of New York at Binghamton, 2007",
+            "B.S., Computer Engineering, State University of New York at Binghamton, 2007"
+        ]
+    },
+    {
+        "name": "Roxana Girju",
+        "title": "Professor, Linguistics",
+        "phone_number": "(217) 244-3060",
+        "email": "girju@illinois.edu",
+        "office_address": "4016B Foreign Languages Building",
+        "link": [
+            "http://cs.illinois.edu/research/areas/artificial-intelligence",
+            "https://cs.illinois.edu/research/areas/data-and-information-systems"
+        ],
+        "education": [
+            "LING 406 - Intro to Computational Ling",
+            "LING 413 - Corpus Linguistics",
+            "LING 490 - Special Topics in Linguistics",
+            "LING 506 - Topics in Computational Ling",
+            "LING 590 - Special Topics in Linguistics"
+        ]
+    },
+    {
+        "name": "Brighten Godfrey",
+        "title": "Professor",
+        "phone_number": "",
+        "email": "pbg@illinois.edu",
+        "office_address": "3211 Siebel Center for Comp Sci",
+        "link": [
+            "https://pbg.cs.illinois.edu"
+        ],
+        "education": [
+            "University of California at Berkeley, Ph.D. in Computer Science, 2009"
+        ]
+    },
+    {
+        "name": "William D Gropp",
+        "title": "Thomas M. Siebel Chair in Computer Science",
+        "phone_number": "(217) 244-6720",
+        "email": "wgropp@illinois.edu",
+        "office_address": "4314 Siebel Center for Comp Sci",
+        "link": [
+            "http://wgropp.cs.illinois.edu"
+        ],
+        "education": [
+            "High Performance Computing",
+            "Programming models for scientific computing",
+            "Scalable Numerical Algorithms",
+            "Scientific Computing",
+            "Parallel Computing"
+        ]
+    },
+    {
+        "name": "Carl Gunter",
+        "title": "George and Ann Fisher Distinguished Professor in Engineering",
+        "phone_number": "(217) 244-1982",
+        "email": "cgunter@illinois.edu",
+        "office_address": "4304 Siebel Center for Comp Sci",
+        "link": [
+            "http://cgunter.cs.illinois.edu/"
+        ],
+        "education": [
+            "Ph.D., Mathematics (Minor in Philosophy), University of Wisconsin-Madison, January 1985"
+        ]
+    },
+    {
+        "name": "Elsa Gunter",
+        "title": "Research Professor and Senior Lecturer",
+        "phone_number": "(217) 265-6118",
+        "email": "egunter@illinois.edu",
+        "office_address": "2112 Siebel Center for Comp Sci",
+        "link": [
+            "http://www.cs.illinois.edu/directory/profile/egunter"
+        ],
+        "education": [
+            "Ph.D., Mathematics, University of Wisconsin, 1987"
+        ]
+    },
+    {
+        "name": "Indranil Gupta",
+        "title": "Professor",
+        "phone_number": "(217) 265-5517",
+        "email": "indy@illinois.edu",
+        "office_address": "3112 Siebel Center for Comp Sci",
+        "link": [
+            "http://indy.cs.illinois.edu/",
+            "http://dprg.cs.uiuc.edu"
+        ],
+        "education": [
+            "Ph.D., Computer Science, Cornell University, Ithaca, NY, 2004",
+            "Bachelor of Technology, Computer Science and Engineering, Indian Institute of Technology (IIT), Chennai, India, 1998"
+        ]
+    },
+    {
+        "name": "Saurabh Gupta",
+        "title": "Assistant Professor, Electrical & Computer Engineering",
+        "phone_number": "",
+        "email": "saurabhg@illinois.edu",
+        "office_address": "319 Coordinated Science Lab",
+        "link": [
+            "http://saurabhg.web.illinois.edu"
+        ],
+        "education": [
+            "Artificial Intelligence"
+        ]
+    },
+    {
+        "name": "Jiawei Han",
+        "title": "Michael Aiken Chair",
+        "phone_number": "(217) 333-6903",
+        "email": "hanj@illinois.edu",
+        "office_address": "2132 Siebel Center for Comp Sci",
+        "link": [
+            "http://hanj.cs.illinois.edu/"
+        ],
+        "education": [
+            "Ph.D., Computer Sciences, University of Wisconsin-Madison, 1985"
+        ]
+    },
+    {
+        "name": "Mehdi T Harandi",
+        "title": "Associate Professor Emeritus",
+        "phone_number": "",
+        "email": "harandi@illinois.edu",
+        "office_address": "",
+        "link": [
+            "http://cs.illinois.edu/research/areas/artificial-intelligence"
+        ],
+        "education": null
+    },
+    {
+        "name": "Sariel Har-Peled",
+        "title": "Donald Biggar Willett Professor in Engineering",
+        "phone_number": "(217) 333-4219",
+        "email": "sariel@illinois.edu",
+        "office_address": "3306 Siebel Center for Comp Sci",
+        "link": [
+            "https://sarielhp.org"
+        ],
+        "education": [
+            "Theory and Algorithms"
+        ]
+    },
+    {
+        "name": "John C Hart",
+        "title": "Professor",
+        "phone_number": "(217) 333-8740",
+        "email": "jch@illinois.edu",
+        "office_address": "3227 Siebel Center for Comp Sci",
+        "link": [
+            "https://graphics.cs.illinois.edu/jch/"
+        ],
+        "education": [
+            "Consultant - Pratt & Whitney - Hartford, CT - 2011",
+            "Graphics Hardware Expert, through Sidley Austin LLP - Microsoft, 2010",
+            "Consultant - SAIC - Champaign, IL - June-Sep. 2008",
+            "Visiting researcher - Adobe Systems, Inc. - Seattle, WA - June 1, 2007 - November 2, 2007",
+            "Consultant - The Teaching Company - Chantilly, VA - 2003"
+        ]
+    },
+    {
+        "name": "Mark Hasegawa-Johnson",
+        "title": "Professor, Electrical and Computer Engineering",
+        "phone_number": "(217) 333-0925",
+        "email": "jhasegaw@illinois.edu",
+        "office_address": "2011 Beckman Institute",
+        "link": [
+            "http://www.isle.illinois.edu/sst/"
+        ],
+        "education": [
+            "Ph.D., Elec. Eng. & Comp. Sc., MIT, 1996"
+        ]
+    },
+    {
+        "name": "Kris K Hauser",
+        "title": "Professor",
+        "phone_number": "(217) 244-0821",
+        "email": "kkhauser@illinois.edu",
+        "office_address": "3233 Siebel Center for Comp Sci",
+        "link": [
+            "http://motion.cs.illinois.edu/",
+            "http://kkhauser.web.illinois.edu/"
+        ],
+        "education": [
+            "Ph.D., Computer Science, Stanford University, 2008",
+            "B.A., Mathematics, University of California at Berkeley, 2003",
+            "B.A., Computer Science, University of California at Berkeley, 2003"
+        ]
+    },
+    {
+        "name": "Jing Rui He",
+        "title": "Associate Professor, School of Information Sciences",
+        "phone_number": "",
+        "email": "jingrui@illinois.edu",
+        "office_address": "",
+        "link": [
+            "https://cs.illinois.edu/research/areas/data-and-information-systems"
+        ],
+        "education": [
+            "IS 407 - Introduction to Data Science",
+            "IS 577 - Data Mining",
+            "IS 590 - Data Mining",
+            "STAT 430 - Introduction to Data Science"
+        ]
+    },
+    {
+        "name": "David Heath",
+        "title": "Assistant Professor",
+        "phone_number": "",
+        "email": "daheath@illinois.edu",
+        "office_address": "",
+        "link": [],
+        "education": null
+    },
+    {
+        "name": "Michael T Heath",
+        "title": "Professor and Fulton Watson Copp Chair Emeritus",
+        "phone_number": "",
+        "email": "heath@illinois.edu",
+        "office_address": "",
+        "link": [
+            "http://www.cs.illinois.edu/~heath/"
+        ],
+        "education": [
+            "Ph.D. Computer Science Stanford University 1978"
+        ]
+    },
+    {
+        "name": "Geoffrey Lindsay Herman",
+        "title": "Severns Teaching Associate Professor",
+        "phone_number": "",
+        "email": "glherman@illinois.edu",
+        "office_address": "3213 Siebel Center for Comp Sci",
+        "link": [
+            "http://publish.illinois.edu/glherman/"
+        ],
+        "education": [
+            "Computers and Education"
+        ]
+    },
+    {
+        "name": "Julia Constanze Hockenmaier",
+        "title": "Professor and Willett Faculty Scholar",
+        "phone_number": "(217) 265-6855",
+        "email": "juliahmr@illinois.edu",
+        "office_address": "3324 Siebel Center for Comp Sci",
+        "link": [
+            "http://juliahmr.cs.illinois.edu"
+        ],
+        "education": [
+            "Artificial Intelligence"
+        ]
+    },
+    {
+        "name": "Derek W Hoiem",
+        "title": "Professor",
+        "phone_number": "(217) 333-0806",
+        "email": "dhoiem@illinois.edu",
+        "office_address": "3312 Siebel Center for Comp Sci",
+        "link": [
+            "http://dhoiem.cs.illinois.edu/"
+        ],
+        "education": [
+            "Professor, Department of Computer Science, UIUC, 2021 to present"
+        ]
+    },
+    {
+        "name": "Jian Huang",
+        "title": "Assistant Professor, Electrical and Computer Engineering",
+        "phone_number": "(217) 300-3104",
+        "email": "jianh@illinois.edu",
+        "office_address": "212 Coordinated Science Lab",
+        "link": [
+            "https://platformxlab.github.io/",
+            "http://jianh.web.engr.illinois.edu/"
+        ],
+        "education": [
+            "Ph.D., Computer Science, Georgia Institute of Technology, 2017"
+        ]
+    },
+    {
+        "name": "Yun Huang",
+        "title": "Associate Professor, Information Sciences",
+        "phone_number": "",
+        "email": "yunhuang@illinois.edu",
+        "office_address": "236 Grad Sch of Lib & Info Science",
+        "link": [
+            "https://cs.illinois.edu/research/areas/interactive-computing"
+        ],
+        "education": [
+            "IS 226 - Introduction to HCI",
+            "IS 424 - Social Computing",
+            "IS 490 - Social Computing",
+            "IS 496 - Design for Social Interact Exp"
+        ]
+    },
+    {
+        "name": "Wen-mei Hwu",
+        "title": "AMD Jerry Sanders Chair Emeritus, Electrical and Computer Engineering",
+        "phone_number": "(217) 244-8270",
+        "email": "w-hwu@illinois.edu",
+        "office_address": "215 Coordinated Science Lab",
+        "link": [
+            "http://c3sr.hwu.crhc.illinois.edu",
+            "http://impact.crhc.illinois.edu"
+        ],
+        "education": [
+            "Ph.D., Computer Science, University of California, Berkeley, 1987"
+        ]
+    },
+    {
+        "name": "Ravishankar K Iyer",
+        "title": "Professor, Electrical and Computer Engineering",
+        "phone_number": "(217) 333-9732",
+        "email": "rkiyer@illinois.edu",
+        "office_address": "255 Coordinated Science Lab",
+        "link": [
+            "http://depend.csl.illinois.edu/"
+        ],
+        "education": [
+            "Ph.D., Electrical Engineering, University of Queensland, 1977",
+            "BE     Electrical Engineering      University of Queensland    1973"
+        ]
+    },
+    {
+        "name": "Reyhaneh Jabbarvand",
+        "title": "Assistant Professor",
+        "phone_number": "",
+        "email": "reyhaneh@illinois.edu",
+        "office_address": "2106 Siebel Center for Comp Sci",
+        "link": [
+            "https://reyhaneh.cs.illinois.edu"
+        ],
+        "education": [
+            "Artificial Intelligence",
+            "Programming Languages / Formal Methods / Software Engineering"
+        ]
+    },
+    {
+        "name": "Sheldon Howard Jacobson",
+        "title": "Founder Professor in Engineering",
+        "phone_number": "(217) 244-7275",
+        "email": "shj@illinois.edu",
+        "office_address": "3224 Siebel Center for Comp Sci",
+        "link": [
+            "http://shj.cs.illinois.edu"
+        ],
+        "education": [
+            "Theory and Algorithms"
+        ]
+    },
+    {
+        "name": "Heng Ji",
+        "title": "Professor",
+        "phone_number": "(217) 244-0862",
+        "email": "hengji@illinois.edu",
+        "office_address": "3318 Siebel Center for Comp Sci",
+        "link": [
+            "http://blender.cs.illinois.edu/hengji.html"
+        ],
+        "education": [
+            "Natural Language Processing and its connections with Data Mining, Social Science and Vision."
+        ]
+    },
+    {
+        "name": "Laxmikant V Kale",
+        "title": "Research Professor & Paul and Cynthia Saylor Professor Emeritus",
+        "phone_number": "(217) 244-0094",
+        "email": "kale@illinois.edu",
+        "office_address": "Siebel Center for Comp Sci",
+        "link": [
+            "https://charm.cs.illinois.edu/~kale/"
+        ],
+        "education": [
+            "Architecture, Compilers, and Parallel Computing",
+            "Scientific Computing"
+        ]
+    },
+    {
+        "name": "Samuel N Kamin",
+        "title": "Professor Emeritus",
+        "phone_number": "",
+        "email": "kamin@illinois.edu",
+        "office_address": "",
+        "link": [
+            "https://cs.illinois.edu/research/areas/computers-and-education"
+        ],
+        "education": null
+    },
+    {
+        "name": "Daniel Kang",
+        "title": "Assistant Professor starting Fall 2023",
+        "phone_number": "",
+        "email": "ddkang@illinois.edu",
+        "office_address": "",
+        "link": [
+            "https://ddkang.github.io/"
+        ],
+        "education": null
+    },
+    {
+        "name": "Karrie Karahalios",
+        "title": "Professor",
+        "phone_number": "(217) 265-6841",
+        "email": "kkarahal@illinois.edu",
+        "office_address": "4228 Siebel Center for Comp Sci",
+        "link": [
+            "http://social.cs.uiuc.edu/",
+            "http://social.cs.uiuc.edu/people/kkarahal.html"
+        ],
+        "education": [
+            "Ph.D., Media Arts and Sciences, Massachusetts Institute of Technology, 2004."
+        ]
+    },
+    {
+        "name": "Daniel S Katz",
+        "title": "Research Associate Professor, NCSA",
+        "phone_number": "(217) 244-8000",
+        "email": "dskatz@illinois.edu",
+        "office_address": "4102A Nat Center for Suprcomp Appl",
+        "link": [
+            "https://danielskatz.org/"
+        ],
+        "education": [
+            "BS, Electrical Engineering, Northwestern University, 1988",
+            "MS, Electrical Engineering, Northwestern University, 1990",
+            "PhD, Electrical Engineering, Northwestern University, 1994"
+        ]
+    },
+    {
+        "name": "Nam Sung Kim",
+        "title": "Professor, Electrical and Computer Engineering",
+        "phone_number": "(217) 244-9169",
+        "email": "nskim@illinois.edu",
+        "office_address": "217 Coordinated Science Lab",
+        "link": [
+            "http://fast.ece.illinois.edu"
+        ],
+        "education": [
+            "B.S., Electrical Engineering, Korea Advanced Institute of Science and Technology, 1997.",
+            "M.S., Electrical Engineering, Korea Advanced Institute of Science and Technology, 2000.",
+            "Ph.D., Computer Science and Engineering, University of Michigan, Ann Arbor, 2004."
+        ]
+    },
+    {
+        "name": "Alex Kirlik",
+        "title": "Professor Emeritus",
+        "phone_number": "(217) 244-8972",
+        "email": "kirlik@illinois.edu",
+        "office_address": "4220 Siebel Center for Comp Sci",
+        "link": [],
+        "education": [
+            "Human-Computer Interaction",
+            "Visualization"
+        ]
+    },
+    {
+        "name": "Andreas Paul Eberhard Kloeckner",
+        "title": "Associate Professor",
+        "phone_number": "(217) 244-6401",
+        "email": "andreask@illinois.edu",
+        "office_address": "4318 Siebel Center for Comp Sci",
+        "link": [
+            "https://github.com/inducer/",
+            "https://andreask.cs.illinois.edu/aboutme/"
+        ],
+        "education": [
+            "PhD, Applied Mathematics, Brown University (2010)",
+            "MSc, Applied Mathematics, Brown University (2006)",
+            "Diplom, Applied Mathematics (\"Technomathematik\"), Universit\u00e4t Karlsruhe/Germany (2005)"
+        ]
+    },
+    {
+        "name": "Bill Kramer",
+        "title": "Research Professor",
+        "phone_number": "(217) 333-6260",
+        "email": "wtkramer@illinois.edu",
+        "office_address": "4122 E Nat Center for Suprcomp Appl",
+        "link": [
+            "https://cs.illinois.edu/research/systems-and-networking",
+            "https://cs.illinois.edu/research/architecture-compilers-and-parallel-computing",
+            "https://cs.illinois.edu/research/systems-and-networking",
+            "http://cs.illinois.edu/research/areas/scientific-computing",
+            "https://cs.illinois.edu/research/areas/security-and-privacy"
+        ],
+        "education": null
+    },
+    {
+        "name": "Robin Hillary Kravets",
+        "title": "Professor and Director of Graduate Programs",
+        "phone_number": "(217) 244-6026",
+        "email": "rhk@illinois.edu",
+        "office_address": "3114 Siebel Center for Comp Sci",
+        "link": [
+            "http://mobius.cs.uiuc.edu/"
+        ],
+        "education": [
+            "Georgia Institute of Technology, Atlanta, GA, Ph.D. Computer Science, August 1999"
+        ]
+    },
+    {
+        "name": "David J. Kuck",
+        "title": "Professor Emeritus",
+        "phone_number": "",
+        "email": "admin@cs.illinois.edu",
+        "office_address": "",
+        "link": [
+            "https://cs.illinois.edu/research/areas/architecture-compilers-and-parallel-computing"
+        ],
+        "education": null
+    },
+    {
+        "name": "H Chad Lane",
+        "title": "Associate Professor, Educational Psychology",
+        "phone_number": "",
+        "email": "hclane@illinois.edu",
+        "office_address": "240 Education Building",
+        "link": [
+            "https://education.illinois.edu/faculty/h-chad-lane"
+        ],
+        "education": [
+            "Artificial Intelligence",
+            "Interactive Computing"
+        ]
+    },
+    {
+        "name": "Steven M. LaValle",
+        "title": "Professor",
+        "phone_number": "(217) 265-6313",
+        "email": "lavalle@illinois.edu",
+        "office_address": "3318 Siebel Center for Comp Sci",
+        "link": [
+            "http://msl.cs.uiuc.edu/~lavalle/"
+        ],
+        "education": [
+            "Doctor of Philosophy in Electrical Engineering, University of Illinois, 1995"
+        ]
+    },
+    {
+        "name": "Duncan H Lawrie",
+        "title": "Professor Emeritus",
+        "phone_number": "",
+        "email": "lawrie@illinois.edu",
+        "office_address": "",
+        "link": null,
+        "education": null
+    },
+    {
+        "name": "Svetlana Lazebnik",
+        "title": "Professor and Willett Faculty Scholar",
+        "phone_number": "(217) 300-2422",
+        "email": "slazebni@illinois.edu",
+        "office_address": "3308 Siebel Center for Comp Sci",
+        "link": [
+            "http://slazebni.cs.illinois.edu/"
+        ],
+        "education": [
+            "Artificial Intelligence"
+        ]
+    },
+    {
+        "name": "Kirill Levchenko",
+        "title": "Associate Professor, Electrical and Computer Engineering",
+        "phone_number": "+1 217 300-8620",
+        "email": "klevchen@illinois.edu",
+        "office_address": "458 Coordinated Science Lab",
+        "link": [
+            "https://klevchen.ece.illinois.edu/"
+        ],
+        "education": [
+            "Cyber-physical system security, network security, e-crime and Internet service abuse"
+        ]
+    },
+    {
+        "name": "Colleen M. Lewis",
+        "title": "Associate Professor",
+        "phone_number": "(217) 244-8891",
+        "email": "colleenl@illinois.edu",
+        "office_address": "3106 Siebel Center for Comp Sci",
+        "link": [
+            "https://publish.illinois.edu/colleenlewis/"
+        ],
+        "education": [
+            "University of California, Berkeley, B.S. in Electrical Engineering and Computer Science - 2005",
+            "University of California, Berkeley, M.S. in Computer Science - 2009",
+            "University of California, Berkeley, Ph.D. in Science and Mathematics Education - 2012"
+        ]
+    },
+    {
+        "name": "Bo Li",
+        "title": "Assistant Professor",
+        "phone_number": "(217) 300-8141",
+        "email": "lbo@illinois.edu",
+        "office_address": "4310 Siebel Center for Comp Sci",
+        "link": [
+            "http://boli.cs.illinois.edu",
+            "https://scholar.google.com/citations?user=K8vJkTcAAAAJ&hl=en"
+        ],
+        "education": [
+            "Information Theory",
+            "Game Theory",
+            "Privacy",
+            "Adversarial Machine Learning",
+            "Security",
+            "Artificial Intelligence"
+        ]
+    },
+    {
+        "name": "Yunzhu Li",
+        "title": "Assistant Professor starting Fall 2023",
+        "phone_number": "",
+        "email": "yunzhuli@illinois.edu",
+        "office_address": "",
+        "link": [
+            "https://yunzhuli.github.io/"
+        ],
+        "education": [
+            "B.S., Computer Science, Peking University, 2017",
+            "S.M., Computer Science, Massachusetts Institute of Technology, 2020",
+            "Ph.D., Computer Science, Massachusetts Institute of Technology, 2022"
+        ]
+    },
+    {
+        "name": "Jane W.-S. Liu",
+        "title": "Professor Emerita",
+        "phone_number": "",
+        "email": "j-liu1@illinois.edu",
+        "office_address": "",
+        "link": null,
+        "education": null
+    },
+    {
+        "name": "Bertram Ludaescher",
+        "title": "Professor, Information Sciences",
+        "phone_number": "(217) 244-3302",
+        "email": "ludaesch@illinois.edu",
+        "office_address": "319 Grad Sch of Lib & Info Science",
+        "link": [
+            "https://cs.illinois.edu/research/areas/data-and-information-systems"
+        ],
+        "education": [
+            "CS 598 DCL - Data Cleaning",
+            "IS 515 - Information Modeling",
+            "IS 532 (IS 537, CS 513) - Theory & Prct of Data Cleaning",
+            "LIS 590 - Theory & Prac of Data Cleaning"
+        ]
+    },
+    {
+        "name": "Steven Lumetta",
+        "title": "Associate Professor, Electrical and Computer Engineering",
+        "phone_number": "(217) 244-5564",
+        "email": "lumetta@illinois.edu",
+        "office_address": "209 Coordinated Science Lab",
+        "link": [
+            "http://lumetta.web.engr.illinois.edu/"
+        ],
+        "education": [
+            "Ph.D., Computer Science, University of California at Berkeley, December 1998"
+        ]
+    },
+    {
+        "name": "Darko Marinov",
+        "title": "Professor and Associate Director of Graduate Programs",
+        "phone_number": "(217) 265-6117",
+        "email": "marinov@illinois.edu",
+        "office_address": "4233 Siebel Center for Comp Sci",
+        "link": [
+            "http://mir.cs.illinois.edu/marinov"
+        ],
+        "education": [
+            "2005 Ph.D., Computer Science, Massachusetts Institute of Technology, Cambridge, MA"
+        ]
+    },
+    {
+        "name": "Kenton Guadron McHenry",
+        "title": "Research Assistant Professor, NCSA",
+        "phone_number": "(217) 265-5387",
+        "email": "mchenry@illinois.edu",
+        "office_address": "2002B Nat Center for Suprcomp Appl",
+        "link": [],
+        "education": [
+            "Artificial Intelligence",
+            "Data and Information Systems"
+        ]
+    },
+    {
+        "name": "Ruta Mehta",
+        "title": "Assistant Professor",
+        "phone_number": "(217) 300-4650",
+        "email": "rutameht@illinois.edu",
+        "office_address": "3218 Siebel Center for Comp Sci",
+        "link": [
+            "https://dblp.org/pid/50/7864.html",
+            "http://rutamehta.cs.illinois.edu/"
+        ],
+        "education": [
+            "Doctor of Philosophy, Computer Science and Engineering, Indian Institute of Technology, Bombay. 2012. Advisor: Prof. Milind Sohoni",
+            "Masters of Technology,Computer Science and Engineering, Indian Institute of Technology, Bombay, 2005",
+            "Bachelor of Engineering, Computer Engineering, Maharaja Saiyajirao University (MSU) Baroda, 2003"
+        ]
+    },
+    {
+        "name": "Jose Meseguer",
+        "title": "Professor",
+        "phone_number": "(217) 333-6733",
+        "email": "meseguer@illinois.edu",
+        "office_address": "2108 Siebel Center for Comp Sci",
+        "link": [
+            "http://maude.cs.illinois.edu"
+        ],
+        "education": [
+            "Ph.D. in Mathematics, University of Zaragoza, 1975 (\"Cum Laude\")"
+        ]
+    },
+    {
+        "name": "M Dennis Mickunas",
+        "title": "Associate Professor Emeritus",
+        "phone_number": "",
+        "email": "mickunas@illinois.edu",
+        "office_address": "",
+        "link": null,
+        "education": null
+    },
+    {
+        "name": "Andrew Miller",
+        "title": "Assistant Professor, Electrical and Computer Engineering",
+        "phone_number": "(217) 300-4893",
+        "email": "soc1024@illinois.edu",
+        "office_address": "461 Coordinated Science Lab",
+        "link": [
+            "http://cs.illinois.edu/research/areas/programming-languages-formal-methods-and-software-engineering",
+            "https://cs.illinois.edu/research/areas/security-and-privacy",
+            "http://cs.illinois.edu/research/areas/systems-and-networking"
+        ],
+        "education": [
+            "The Ekiden Platform for Confidentiality-Preserving, Trustworthy, and Performant Smart Contracts. Zhang, F. et al. In IEEE Security & Privacy, vol. 18, no. 03, pp. 17-27, 2020.",
+            "An Empirical Analysis of Linkability in the Monero Blockchain. Andrew Miller, Malte Moeser, Kevin Lee, Arvind Narayanan. PoPETS. July 2018"
+        ]
+    },
+    {
+        "name": "Sasa Misailovic",
+        "title": "Associate Professor",
+        "phone_number": "(217) 300-4916",
+        "email": "misailo@illinois.edu",
+        "office_address": "4110 Siebel Center for Comp Sci",
+        "link": [
+            "http://misailo.cs.illinois.edu/"
+        ],
+        "education": [
+            "Architecture, Compilers, and Parallel Computing",
+            "Programming Languages / Formal Methods / Software Engineering",
+            "Security and Privacy"
+        ]
+    },
+    {
+        "name": "Radhika Mittal",
+        "title": "Assistant Professor, Electrical and Computer Engineering",
+        "phone_number": "",
+        "email": "radhikam@illinois.edu",
+        "office_address": "257 Coordinated Science Lab",
+        "link": [
+            "http://radhikam.web.illinois.edu/"
+        ],
+        "education": [
+            "Systems and Networking"
+        ]
+    },
+    {
+        "name": "Marco Morales Aguirre",
+        "title": "Teaching Associate Professor",
+        "phone_number": "(217) 244-8896",
+        "email": "moralesa@illinois.edu",
+        "office_address": "3304 Siebel Center for Comp Sci",
+        "link": [
+            "https://parasollab.web.illinois.edu/people/moralesa/"
+        ],
+        "education": [
+            "2020-present, Teaching Associate Professor, Department of Computer Science, University of Illinois at Urbana-Champaign"
+        ]
+    },
+    {
+        "name": "Klara Nahrstedt",
+        "title": "Grainger Distinguished Chair in Engineering",
+        "phone_number": "(217) 244-6624",
+        "email": "klara@illinois.edu",
+        "office_address": "3104 Siebel Center for Comp Sci",
+        "link": [
+            "http://monet.cs.illinois.edu/people/klara/"
+        ],
+        "education": [
+            "Ph.D., Computer and Information Science, University of Pennsylvania, 1995"
+        ]
+    },
+    {
+        "name": "Yee Man (Margaret) Ng",
+        "title": "Assistant Professor,  Journalism and Institute of Communications Research",
+        "phone_number": "(217) 300-8186",
+        "email": "ymn@illinois.edu",
+        "office_address": "42 Gregory Hall",
+        "link": [
+            "http://margaretnym.byethost7.com/Social_files/CV_MNg.pdf",
+            "http://bit.ly/MargaretNg"
+        ],
+        "education": [
+            "Computational Social Science, Social Media Analytics, Data Visualizations"
+        ]
+    },
+    {
+        "name": "David M. Nicol",
+        "title": "Professor, Electrical and Computer Engineering",
+        "phone_number": "(217) 244-1925",
+        "email": "dmnicol@illinois.edu",
+        "office_address": "451 Coordinated Science Lab",
+        "link": [
+            "http://dmnicol.web.engr.illinois.edu/"
+        ],
+        "education": [
+            "Ph.D., Computer Science,University of Virginia, 1985"
+        ]
+    },
+    {
+        "name": "Michael Nowak",
+        "title": "Teaching Assistant Professor",
+        "phone_number": "(217) 244-8894",
+        "email": "mnowak1@illinois.edu",
+        "office_address": "2338 Siebel Center for Comp Sci",
+        "link": [
+            "https://learncpp.online/",
+            "https://cs128.org",
+            "https://nowakphd.com"
+        ],
+        "education": [
+            "Ph.D., Computer Science, Texas A&M University, 2019"
+        ]
+    },
+    {
+        "name": "Luke Olson",
+        "title": "Professor and Willett Faculty Scholar",
+        "phone_number": "(217) 244-8422",
+        "email": "lukeo@illinois.edu",
+        "office_address": "4312 Siebel Center for Comp Sci",
+        "link": [
+            "https://github.com/raptor-library/raptor",
+            "https://github.com/cedar-framework/cedar",
+            "https://github.com/cusplibrary/cusplibrary",
+            "https://github.com/pyamg/pyamg",
+            "http://lukeo.cs.illinois.edu"
+        ],
+        "education": [
+            "Ph.D., Applied Mathematics, University of Colorado at Boulder, 2003",
+            "M.S., Mathematics, University of Iowa, 1999",
+            "B.A., Mathematics and Physics, Luther College, 1997"
+        ]
+    },
+    {
+        "name": "David Padua",
+        "title": "Donald Biggar Willett Professor Emeritus in Engineering",
+        "phone_number": "(217) 333-4223",
+        "email": "padua@illinois.edu",
+        "office_address": "4227 Siebel Center for Comp Sci",
+        "link": [
+            "http://polaris.cs.illinois.edu/~padua/"
+        ],
+        "education": [
+            "Architecture, Compilers, and Parallel Computing",
+            "Programming Languages / Formal Methods / Software Engineering"
+        ]
+    },
+    {
+        "name": "Yongjoo Park",
+        "title": "Assistant Professor",
+        "phone_number": "",
+        "email": "yongjoo@illinois.edu",
+        "office_address": "2114 Siebel Center for Comp Sci",
+        "link": [
+            "https://yongjoopark.com"
+        ],
+        "education": [
+            "Ph.D. in Computer Science and Engineering, University of Michigan, Ann Arbor, 2017",
+            "M.S. in Computer Science, University of Michigan, Ann Arbor, 2013",
+            "B.S. in Electrical Engineering, Seoul National University, 2009"
+        ]
+    },
+    {
+        "name": "Madhusudan Parthasarathy",
+        "title": "Professor",
+        "phone_number": "(217) 244-1323",
+        "email": "madhu@illinois.edu",
+        "office_address": "3226 Siebel Center for Comp Sci",
+        "link": [
+            "http://www.cs.uiuc.edu/~madhu"
+        ],
+        "education": [
+            "2002 Ph.D., Theoretical Computer Science, Institute of Mathematical Sciences, University of Madras, Chennai, India."
+        ]
+    },
+    {
+        "name": "Sanjay Patel",
+        "title": "Professor, Electrical and Computer Engineering",
+        "phone_number": "(217) 333-9219",
+        "email": "sjp@illinois.edu",
+        "office_address": "211 Coordinated Science Lab",
+        "link": [
+            "https://sjp.ece.illinois.edu/"
+        ],
+        "education": [
+            "Ph.D. Computer Science & Engineering, University of Michigan, May 1999"
+        ]
+    },
+    {
+        "name": "Jian Peng",
+        "title": "Associate Professor and Willett Faculty Fellow",
+        "phone_number": "(217) 300-2825",
+        "email": "jianpeng@illinois.edu",
+        "office_address": "2118 Siebel Center for Comp Sci",
+        "link": [
+            "http://jianpeng.web.engr.illinois.edu"
+        ],
+        "education": [
+            "Associate Professor, Department of Computer Science"
+        ]
+    },
+    {
+        "name": "Leonard B Pitt",
+        "title": "Professor Emeritus",
+        "phone_number": "",
+        "email": "pitt@illinois.edu",
+        "office_address": "3237 Siebel Center for Comp Sci",
+        "link": [
+            "http://cs.illinois.edu/research/areas/theory-and-algorithms"
+        ],
+        "education": [
+            "CS 100 - Freshman Orientation"
+        ]
+    },
+    {
+        "name": "Maxim Raginsky",
+        "title": "Professor, Electrical and Computer Engineering",
+        "phone_number": "(217) 244-1782",
+        "email": "maxim@illinois.edu",
+        "office_address": "162 Coordinated Science Lab",
+        "link": [
+            "http://maxim.ece.illinois.edu"
+        ],
+        "education": [
+            "Ph.D. in Electrical Engineering, Northwestern University, 2002"
+        ]
+    },
+    {
+        "name": "Lawrence Rauchwerger",
+        "title": "Professor",
+        "phone_number": "(217) 244-0968",
+        "email": "rwerger@illinois.edu",
+        "office_address": "4114 Siebel Center for Comp Sci",
+        "link": [
+            "https://parasollab.web.illinois.edu/people/rwerger/"
+        ],
+        "education": [
+            "Parallel and distributed programming environments, compilers and architectures for parallel and distributed computing."
+        ]
+    },
+    {
+        "name": "Edward M Reingold",
+        "title": "Professor Emeritus",
+        "phone_number": "",
+        "email": "reingold@illinois.edu",
+        "office_address": "",
+        "link": null,
+        "education": null
+    },
+    {
+        "name": "Gene E Robinson",
+        "title": "Department Affiliate",
+        "phone_number": "(217) 265-0309",
+        "email": "generobi@illinois.edu",
+        "office_address": "320 Morrill Hall",
+        "link": [],
+        "education": null
+    },
+    {
+        "name": "Bruce R Schatz",
+        "title": "Professor, Information Sciences",
+        "phone_number": "(217) 244-0651",
+        "email": "schatz@illinois.edu",
+        "office_address": "4230 Siebel Center for Comp Sci",
+        "link": [
+            "https://cs.illinois.edu/research/areas/data-and-information-systems"
+        ],
+        "education": null
+    },
+    {
+        "name": "Alexander Schwing",
+        "title": "AssociateProfessor, Electrical and Computer Engineering",
+        "phone_number": "",
+        "email": "aschwing@illinois.edu",
+        "office_address": "103 Coordinated Science Lab",
+        "link": [
+            "http://aschwing.web.engr.illinois.edu"
+        ],
+        "education": [
+            "Machine Learning",
+            "Computer Vision"
+        ]
+    },
+    {
+        "name": "Eric Gene Shaffer",
+        "title": "Teaching Associate Professor and Associate Director of Undergraduate Programs",
+        "phone_number": "(217) 265-6590",
+        "email": "shaffer1@illinois.edu",
+        "office_address": "2209 Siebel Center for Comp Sci",
+        "link": [
+            "https://www.linkedin.com/in/eric-shaffer",
+            "https://shaffer1.github.io/"
+        ],
+        "education": [
+            "Computers and Education"
+        ]
+    },
+    {
+        "name": "Mariana Silva",
+        "title": "Teaching Associate Professor and Education Innovation Fellow",
+        "phone_number": "(217) 300-6633",
+        "email": "mfsilva@illinois.edu",
+        "office_address": "2213 Siebel Center for Comp Sci",
+        "link": [
+            "http://mfsilva.web.illinois.edu/"
+        ],
+        "education": [
+            "PhD Theoretical and Applied Mechanics, University of Illinois at Urbana-Champaign, 2009",
+            "MS Mechanical Engineering, Federal University of Rio de Janeiro, Brazil, 2003",
+            "BS Mechanical Engineering, Federal University of Rio de Janeiro, Brazil, 2001"
+        ]
+    },
+    {
+        "name": "Robert D Skeel",
+        "title": "Professor Emeritus",
+        "phone_number": "",
+        "email": "skeel@illinois.edu",
+        "office_address": "",
+        "link": null,
+        "education": null
+    },
+    {
+        "name": "Brad R Solomon",
+        "title": "Teaching Assistant Professor",
+        "phone_number": "(217) 244-8904",
+        "email": "bradsol@illinois.edu",
+        "office_address": "2233 Siebel Center for Comp Sci",
+        "link": [
+            "https://www.linkedin.com/in/brad-solomon/"
+        ],
+        "education": [
+            "CS 173 - Discrete Structures",
+            "CS 199 225 - Supplementary proj. for CS-225",
+            "CS 225 - Data Structures",
+            "CS 277 - Algo & Data Stru for Data Sci",
+            "CS 296 25 - Honors Course",
+            "ENG 199 PUR - PURE Research Program"
+        ]
+    },
+    {
+        "name": "Edgar Solomonik",
+        "title": "Associate Professor",
+        "phone_number": "(217) 300-4794",
+        "email": "solomon2@illinois.edu",
+        "office_address": "4229 Siebel Center for Comp Sci",
+        "link": [
+            "http://solomon2.web.engr.illinois.edu",
+            "https://solomonik.github.io/"
+        ],
+        "education": [
+            "PhD, University of California Berkeley, 2010-2014, Thesis title: Provably Efficient Algorithms for Numerical Tensor Algebra, advisor: James Demmel",
+            "BS, University of Illinois at Urbana-Champaign, 2008-2010"
+        ]
+    },
+    {
+        "name": "Sarah Gimbert Sterman",
+        "title": "Resarch Assistant Professor",
+        "phone_number": "",
+        "email": "ssterman@illinois.edu",
+        "office_address": "",
+        "link": [
+            "https://ssterman.web.illinois.edu/"
+        ],
+        "education": [
+            "Interactive Computing"
+        ]
+    },
+    {
+        "name": "Jimeng Sun",
+        "title": "Professor",
+        "phone_number": "",
+        "email": "jimeng@illinois.edu",
+        "office_address": "",
+        "link": [
+            "http://www.sunlab.org"
+        ],
+        "education": [
+            "Data and Information Systems",
+            "Bioinformatics and Computational Biology",
+            "Artificial Intelligence"
+        ]
+    },
+    {
+        "name": "Matus Jan Telgarsky",
+        "title": "Assistant Professor",
+        "phone_number": "(217) 300-4507",
+        "email": "mjt@illinois.edu",
+        "office_address": "3212 Siebel Center for Comp Sci",
+        "link": [
+            "http://mjt.cs.illinois.edu/"
+        ],
+        "education": [
+            "Artificial Intelligence",
+            "Theory and Algorithms"
+        ]
+    },
+    {
+        "name": "Michael Twidale",
+        "title": "Professor, Information Sciences",
+        "phone_number": "(217) 265-0510",
+        "email": "twidale@illinois.edu",
+        "office_address": "336 510 E Daniel",
+        "link": [
+            "http://people.lis.illinois.edu/~twidale/"
+        ],
+        "education": [
+            "Ph.D. in Computing, Lancaster University, 1990"
+        ]
+    },
+    {
+        "name": "Luther Tychonievich",
+        "title": "Teaching Associate Professor",
+        "phone_number": "",
+        "email": "luthert@illinois.edu",
+        "office_address": "",
+        "link": [],
+        "education": null
+    },
+    {
+        "name": "Lav R Varshney",
+        "title": "Associate Professor, Electrical and Computer Engineering",
+        "phone_number": "(217) 244-8042",
+        "email": "varshney@illinois.edu",
+        "office_address": "314 Coordinated Science Lab",
+        "link": [
+            "http://www.varshney.csl.illinois.edu/"
+        ],
+        "education": [
+            "ECE 313 (MATH 362) - Probability with Engrg Applic",
+            "ECE 498 LV3 (ECE 498 LV4) - Network Sci.: Dynamics & Flow",
+            "ECE 563 - Information Theory",
+            "ECE 598 LV - Generative AI Models",
+            "TE 100 - Intro to ILEE"
+        ]
+    },
+    {
+        "name": "Mahesh Viswanathan",
+        "title": "Professor and Associate Head for Academics",
+        "phone_number": "(217) 265-6591",
+        "email": "vmahesh@illinois.edu",
+        "office_address": "3232 Siebel Center for Comp Sci",
+        "link": [
+            "http://vmahesh.cs.illinois.edu"
+        ],
+        "education": [
+            "Ph.D. Computer and Information Science, University of Pennsylvania, 2000"
+        ]
+    },
+    {
+        "name": "Gang Wang",
+        "title": "Assistant Professor",
+        "phone_number": "(217) 244-1008",
+        "email": "gangw@illinois.edu",
+        "office_address": "4316 Siebel Center for Comp Sci",
+        "link": [
+            "http://gangw.cs.illinois.edu/"
+        ],
+        "education": [
+            "Affiliate Faculty, Informatics Programs, School of Information Sciences, University of Illinois at Urbana-Champaign, Urbana, IL, Sep. 2021 - Present",
+            "Affiliate Faculty, Department of Electrical and Computer Engineering, University of Illinois at Urbana-Champaign, Urbana, IL, Nov. 2020 - Present",
+            "Assistant Professor, Department of Computer Science,  \nUniversity of Illinois at Urbana-Champaign, Urbana, IL, \nAug. 2019 - Present"
+        ]
+    },
+    {
+        "name": "Shaowen Wang",
+        "title": "Professor, Geography",
+        "phone_number": "(217) 333-7608",
+        "email": "shaowen@illinois.edu",
+        "office_address": "265 Computing Applications Bldg",
+        "link": [
+            "http://www.cigi.illinois.edu/shaowen/index.htm"
+        ],
+        "education": [
+            "Data and Information Systems"
+        ]
+    },
+    {
+        "name": "Yang Wang",
+        "title": "Associate Professor, Information Sciences",
+        "phone_number": "",
+        "email": "yvw@illinois.edu",
+        "office_address": "239 Grad Sch of Lib & Info Science",
+        "link": [
+            "https://yangwang.ischool.illinois.edu/"
+        ],
+        "education": [
+            "Interactive Computing",
+            "Security and Privacy"
+        ]
+    },
+    {
+        "name": "Yuxiong Wang",
+        "title": "Assistant Professor",
+        "phone_number": "(217) 244-8913",
+        "email": "yxw@illinois.edu",
+        "office_address": "3316 Siebel Center for Comp Sci",
+        "link": [
+            "https://yxw.web.illinois.edu"
+        ],
+        "education": [
+            "Artificial Intelligence"
+        ]
+    },
+    {
+        "name": "Tiffani L Williams",
+        "title": "Teaching Professor and Director of Onramp Programs",
+        "phone_number": "",
+        "email": "tiffani@illinois.edu",
+        "office_address": "2103 Siebel Center for Comp Sci",
+        "link": [
+            "http://tiffaniwilliams.com"
+        ],
+        "education": [
+            "Reproducible research",
+            "Experimental performance studies of algorithms",
+            "Hhigh-performance computing",
+            "Phylogenetic tree inference",
+            "Bioinformatics",
+            "Computer science education"
+        ]
+    },
+    {
+        "name": "Marianne S Winslett",
+        "title": "Professor Emerita",
+        "phone_number": "",
+        "email": "winslett@illinois.edu",
+        "office_address": "",
+        "link": [
+            "http://winslett.cs.illinois.edu/"
+        ],
+        "education": [
+            "Ph.D. in Computer Science, Stanford University, 1987"
+        ]
+    },
+    {
+        "name": "Martin D F Wong",
+        "title": "Edward C. Jordan Emeritus Professor, Electrical and Computer Engineering",
+        "phone_number": "",
+        "email": "mdfwong@illinois.edu",
+        "office_address": "",
+        "link": [],
+        "education": [
+            "Combinatorial optimization",
+            "Design and analysis of algorithms",
+            "Field-programmable systems",
+            "Design for Manufacturing",
+            "CAD for VLSI Electronic Packaging",
+            "Computer-aided design of VLSI"
+        ]
+    },
+    {
+        "name": "Michael Joseph Woodley",
+        "title": "Clinical Assistant Professor",
+        "phone_number": "(217) 244-1971",
+        "email": "mwoodley@illinois.edu",
+        "office_address": "2101 Siebel Center for Comp Sci",
+        "link": [],
+        "education": null
+    },
+    {
+        "name": "Abigail Wooldridge",
+        "title": "Assistant Professor, Industrial and Enterprise Systems Engineering",
+        "phone_number": "(217) 300-8086",
+        "email": "arwool@illinois.edu",
+        "office_address": "209A Transportation Building",
+        "link": [
+            "https://hfss.ise.illinois.edu"
+        ],
+        "education": [
+            "Ph.D., Industrial Engineering, University of Wisconsin \u2013 Madison, Madison, Wisconsin, 2018. Thesis: \"Team Cognition Distributed in Spatio-Temporal Processes: A Macroergonomic Approach to Trauma Care\"",
+            "M.S., Industrial and Systems Engineering (Human Factors and Ergonomics), University of Wisconsin \u2013 Madison, Madison, Wisconsin, 2013",
+            "M.Eng. (with thesis), Summa Cum Laude, Industrial Engineering (Operations Research and Applied Statistics), University of Louisville, Louisville, Kentucky, 2012. Thesis: \"Modeling the workflow of one primary care physician-nurse team.\"",
+            "B.S., Summa Cum Laude, Industrial Engineering, University of Louisville, Louisville, Kentucky, 2011"
+        ]
+    },
+    {
+        "name": "Tao Xie",
+        "title": "ADJ PROF",
+        "phone_number": "(217) 244-5931",
+        "email": "taoxie@illinois.edu",
+        "office_address": "4237 Siebel Center for Comp Sci",
+        "link": [
+            "http://taoxie.cs.illinois.edu/"
+        ],
+        "education": [
+            "Ph.D., Computer Science, University of Washington, Seattle, WA, 2005"
+        ]
+    },
+    {
+        "name": "Tianyin Xu",
+        "title": "Assistant Professor",
+        "phone_number": "(217) 300-8117",
+        "email": "tyxu@illinois.edu",
+        "office_address": "4108 Siebel Center for Comp Sci",
+        "link": [
+            "https://tianyin.github.io/"
+        ],
+        "education": [
+            "Programming Languages / Formal Methods / Software Engineering",
+            "Systems and Networking"
+        ]
+    },
+    {
+        "name": "Wenzhen Yuan",
+        "title": "Assistant Professor Starting Fall 2023",
+        "phone_number": "",
+        "email": "yuanwz@illinois.edu",
+        "office_address": "",
+        "link": [
+            "http://robotouch.ri.cmu.edu/yuanwz/",
+            "https://labs.ri.cmu.edu/robotouch/"
+        ],
+        "education": [
+            "Ph.D., MIT, 2018",
+            "S.M., MIT, 2014",
+            "B.E., Tsinghua University, 2012"
+        ]
+    },
+    {
+        "name": "ChengXiang  Zhai",
+        "title": "Donald Biggar Willett Professor in Engineering",
+        "phone_number": "(217) 244-4943",
+        "email": "czhai@illinois.edu",
+        "office_address": "2116 Siebel Center for Comp Sci",
+        "link": [
+            "http://timan.cs.illinois.edu/ir",
+            "http://czhai.cs.illinois.edu/"
+        ],
+        "education": [
+            "Bioinformatics and Computational Biology",
+            "Computers and Education",
+            "Data and Information Systems"
+        ]
+    },
+    {
+        "name": "Craig Zilles",
+        "title": "Professor and Severns Faculty Scholar",
+        "phone_number": "(217) 244-0553",
+        "email": "zilles@illinois.edu",
+        "office_address": "4112 Siebel Center for Comp Sci",
+        "link": [
+            "http://zilles.cs.illinois.edu/"
+        ],
+        "education": [
+            "computer-based testing, learning analytics, computer architecture, compiler construction, dynamic optimization,  program profiling, speculation, general-purpose processors, managed languages, dynamic languages, computer science education, concept inventories"
+        ]
+    }
+]
