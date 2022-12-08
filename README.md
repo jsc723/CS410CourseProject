@@ -1,4 +1,5 @@
-# CourseProject Video
+# CS410 Course Project
+## Video
 
 https://mediaspace.illinois.edu/media/t/1_q23c7osw
 
