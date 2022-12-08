@@ -1,5 +1,5 @@
 # CS410 Course Project
-## Video Tutorial
+## Demo Video Tutorial
 
 https://mediaspace.illinois.edu/media/t/1_q23c7osw
 
