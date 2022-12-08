@@ -20,3 +20,8 @@ $ pipenv shell
 $ pip install -r requirements.txt
 
 $ python manage.py runserver
+
+
+## Output and Document Files
+
+All our document files are at the output [folder](https://github.com/jsc723/CS410CourseProject/tree/main/output).
